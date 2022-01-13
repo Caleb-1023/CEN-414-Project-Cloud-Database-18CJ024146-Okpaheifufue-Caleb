@@ -1,0 +1,521 @@
+NATIONS,Year,Code,Women in Parliament
+Algeria,2010,ALG,7.7
+Algeria,2011,ALG,8
+Algeria,2012,ALG,31.6
+Algeria,2013,ALG,31.6
+Algeria,2014,ALG,31.6
+Algeria,2015,ALG,31.6
+Algeria,2016,ALG,32.5
+Algeria,2017,ALG,32.5
+Algeria,2018,ALG,32.5
+Algeria,2019,ALG,32.5
+Angola,2010,ANG,38.6
+Angola,2011,ANG,38.2
+Angola,2012,ANG,34.1
+Angola,2013,ANG,34.1
+Angola,2014,ANG,34.1
+Angola,2015,ANG,34.1
+Angola,2016,ANG,32
+Angola,2017,ANG,32
+Angola,2018,ANG,32
+Angola,2019,ANG,10.8
+Benin,2010,BEN,8.4
+Benin,2011,BEN,8.4
+Benin,2012,BEN,8.4
+Benin,2013,BEN,8.4
+Benin,2014,BEN,8.4
+Benin,2015,BEN,9.6
+Benin,2016,BEN,9.6
+Benin,2017,BEN,9.6
+Benin,2018,BEN,9.6
+Benin,2019,BEN,8.4
+Botswana,2010,BOT,7.9
+Botswana,2011,BOT,7.9
+Botswana,2012,BOT,7.9
+Botswana,2013,BOT,7.9
+Botswana,2014,BOT,7.9
+Botswana,2015,BOT,7.9
+Botswana,2016,BOT,6.3
+Botswana,2017,BOT,6.3
+Botswana,2018,BOT,6.3
+Botswana,2019,BOT,6.3
+Burkina Faso,2010,BKF,15.3
+Burkina Faso,2011,BKF,15.3
+Burkina Faso,2012,BKF,15.7
+Burkina Faso,2013,BKF,15.7
+Burkina Faso,2014,BKF,15.7
+Burkina Faso,2015,BKF,15.7
+Burkina Faso,2016,BKF,14.9
+Burkina Faso,2017,BKF,14.9
+Burkina Faso,2018,BKF,14.9
+Burkina Faso,2019,BKF,14.9
+Burundi,2010,BUR,32.1
+Burundi,2011,BUR,30.5
+Burundi,2012,BUR,30.5
+Burundi,2013,BUR,30.5
+Burundi,2014,BUR,30.5
+Burundi,2015,BUR,30.5
+Burundi,2016,BUR,28.6
+Burundi,2017,BUR,28.6
+Burundi,2018,BUR,28.6
+Burundi,2019,BUR,28.6
+Cameroon,2010,CAM,13.9
+Cameroon,2011,CAM,13.9
+Cameroon,2012,CAM,13.9
+Cameroon,2013,CAM,31.1
+Cameroon,2014,CAM,31.1
+Cameroon,2015,CAM,31.1
+Cameroon,2016,CAM,34.8
+Cameroon,2017,CAM,34.8
+Cameroon,2018,CAM,34.8
+Cameroon,2019,CAM,34.8
+Cape Verde,2010,CAP,18.1
+Cape Verde,2011,CAP,20.8
+Cape Verde,2012,CAP,20.8
+Cape Verde,2013,CAP,20.8
+Cape Verde,2014,CAP,20.8
+Cape Verde,2015,CAP,20.8
+Cape Verde,2016,CAP,21.9
+Cape Verde,2017,CAP,21.9
+Cape Verde,2018,CAP,21.9
+Cape Verde,2019,CAP,21.9
+Central African Republic,2010,CAR,9.6
+Central African Republic,2011,CAR,12.5
+Central African Republic,2012,CAR,12.5
+Central African Republic,2013,CAR,12.5
+Central African Republic,2014,CAR,12.5
+Central African Republic,2015,CAR,12.5
+Central African Republic,2016,CAR,15.3
+Central African Republic,2017,CAR,15.3
+Central African Republic,2018,CAR,15.3
+Central African Republic,2019,CAR,15.3
+Chad,2010,CHD,5.2
+Chad,2011,CHD,12.8
+Chad,2012,CHD,14.9
+Chad,2013,CHD,14.9
+Chad,2014,CHD,14.9
+Chad,2015,CHD,14.9
+Chad,2016,CHD,12.2
+Chad,2017,CHD,12.2
+Chad,2018,CHD,12.2
+Chad,2019,CHD,12.2
+Comoros,2010,COM,3
+Comoros,2011,COM,3
+Comoros,2012,COM,3
+Comoros,2013,COM,3
+Comoros,2014,COM,3
+Comoros,2015,COM,3
+Comoros,2016,COM,4
+Comoros,2017,COM,4
+Comoros,2018,COM,4
+Comoros,2019,COM,4
+Congo,2010,CON,7.3
+Congo,2011,CON,7.3
+Congo,2012,CON,7.4
+Congo,2013,CON,7.4
+Congo,2014,CON,7.4
+Congo,2015,CON,7.4
+Congo,2016,CON,8.6
+Congo,2017,CON,8.6
+Congo,2018,CON,8.6
+Congo,2019,CON,8.6
+Côte d'Ivoire,2010,COT,8.9
+Côte d'Ivoire,2011,COT,11
+Côte d'Ivoire,2012,COT,10.4
+Côte d'Ivoire,2013,COT,10.4
+Côte d'Ivoire,2014,COT,10.4
+Côte d'Ivoire,2015,COT,10.4
+Côte d'Ivoire,2016,COT,13.4
+Côte d'Ivoire,2017,COT,13.4
+Côte d'Ivoire,2018,COT,13.4
+Côte d'Ivoire,2019,COT,13.4
+Democratic Republic of the Congo,2010,DRC,8.4
+Democratic Republic of the Congo,2011,DRC,0
+Democratic Republic of the Congo,2012,DRC,8.9
+Democratic Republic of the Congo,2013,DRC,8.9
+Democratic Republic of the Congo,2014,DRC,8.9
+Democratic Republic of the Congo,2015,DRC,8.9
+Democratic Republic of the Congo,2016,DRC,9.3
+Democratic Republic of the Congo,2017,DRC,9.3
+Democratic Republic of the Congo,2018,DRC,9.3
+Democratic Republic of the Congo,2019,DRC,9.3
+Djibouti,2010,DJI,13.8
+Djibouti,2011,DJI,13.8
+Djibouti,2012,DJI,13.8
+Djibouti,2013,DJI,12.7
+Djibouti,2014,DJI,12.7
+Djibouti,2015,DJI,12.7
+Djibouti,2016,DJI,15.3
+Djibouti,2017,DJI,15.3
+Djibouti,2018,DJI,15.3
+Djibouti,2019,DJI,15.3
+Egypt,2010,EGY,12.7
+Egypt,2011,EGY,2
+Egypt,2012,EGY,2
+Egypt,2013,EGY,2
+Egypt,2014,EGY,2
+Egypt,2015,EGY,2
+Egypt,2016,EGY,4.3
+Egypt,2017,EGY,4.3
+Egypt,2018,EGY,4.3
+Egypt,2019,EGY,4.3
+Equatorial Guinea,2010,EQG,10
+Equatorial Guinea,2011,EQG,10
+Equatorial Guinea,2012,EQG,10
+Equatorial Guinea,2013,EQG,12.1
+Equatorial Guinea,2014,EQG,12.1
+Equatorial Guinea,2015,EQG,12.1
+Equatorial Guinea,2016,EQG,13.5
+Equatorial Guinea,2017,EQG,13.5
+Equatorial Guinea,2018,EQG,13.5
+Equatorial Guinea,2019,EQG,13.5
+Eritrea,2010,ENT,22
+Eritrea,2011,ENT,22
+Eritrea,2012,ENT,22
+Eritrea,2013,ENT,22
+Eritrea,2014,ENT,22
+Eritrea,2015,ENT,22
+Eritrea,2016,ENT,21.5
+Eritrea,2017,ENT,21.5
+Eritrea,2018,ENT,21.5
+Eritrea,2019,ENT,21.5
+Ethiopia,2010,ETH,27.8
+Ethiopia,2011,ETH,27.8
+Ethiopia,2012,ETH,27.8
+Ethiopia,2013,ETH,27.8
+Ethiopia,2014,ETH,27.8
+Ethiopia,2015,ETH,27.8
+Ethiopia,2016,ETH,24.3
+Ethiopia,2017,ETH,24.3
+Ethiopia,2018,ETH,24.3
+Ethiopia,2019,ETH,24.3
+Gabon,2010,GAB,14.7
+Gabon,2011,GAB,14.2
+Gabon,2012,GAB,15.8
+Gabon,2013,GAB,15.8
+Gabon,2014,GAB,15.8
+Gabon,2015,GAB,15.8
+Gabon,2016,GAB,12.4
+Gabon,2017,GAB,12.4
+Gabon,2018,GAB,12.4
+Gabon,2019,GAB,12.4
+Gambia,2010,GAM,7.5
+Gambia,2011,GAM,7.5
+Gambia,2012,GAM,7.5
+Gambia,2013,GAM,7.5
+Gambia,2014,GAM,7.5
+Gambia,2015,GAM,7.5
+Gambia,2016,GAM,6.3
+Gambia,2017,GAM,6.3
+Gambia,2018,GAM,6.3
+Gambia,2019,GAM,6.3
+Ghana,2010,GHN,8.3
+Ghana,2011,GHN,8.3
+Ghana,2012,GHN,8.3
+Ghana,2013,GHN,10.9
+Ghana,2014,GHN,10.9
+Ghana,2015,GHN,10.9
+Ghana,2016,GHN,10.9
+Ghana,2017,GHN,10.9
+Ghana,2018,GHN,10.9
+Ghana,2019,GHN,10.9
+Guinea,2010,GUI,0
+Guinea,2011,GUI,0.6
+Guinea,2012,GUI,2.7
+Guinea,2013,GUI,2.7
+Guinea,2014,GUI,2.7
+Guinea,2015,GUI,2.7
+Guinea,2016,GUI,3.2
+Guinea,2017,GUI,3.2
+Guinea,2018,GUI,3.2
+Guinea,2019,GUI,3.2
+Guinea-Bissau,2010,GUB,10
+Guinea-Bissau,2011,GUB,10
+Guinea-Bissau,2012,GUB,14
+Guinea-Bissau,2013,GUB,14
+Guinea-Bissau,2014,GUB,14
+Guinea-Bissau,2015,GUB,14
+Guinea-Bissau,2016,GUB,13.5
+Guinea-Bissau,2017,GUB,13.5
+Guinea-Bissau,2018,GUB,13.5
+Guinea-Bissau,2019,GUB,13.5
+Kenya,2010,KEN,9.8
+Kenya,2011,KEN,9.8
+Kenya,2012,KEN,9.8
+Kenya,2013,KEN,18.6
+Kenya,2014,KEN,18.6
+Kenya,2015,KEN,18.6
+Kenya,2016,KEN,14.3
+Kenya,2017,KEN,14.3
+Kenya,2018,KEN,14.3
+Kenya,2019,KEN,14.3
+Lesotho,2010,LES,24.2
+Lesotho,2011,LES,24.2
+Lesotho,2012,LES,26.7
+Lesotho,2013,LES,26.7
+Lesotho,2014,LES,26.7
+Lesotho,2015,LES,26.7
+Lesotho,2016,LES,24.6
+Lesotho,2017,LES,24.6
+Lesotho,2018,LES,24.6
+Lesotho,2019,LES,24.6
+Liberia,2010,LIB,12.5
+Liberia,2011,LIB,9.6
+Liberia,2012,LIB,11
+Liberia,2013,LIB,11
+Liberia,2014,LIB,11
+Liberia,2015,LIB,11
+Liberia,2016,LIB,13
+Liberia,2017,LIB,13
+Liberia,2018,LIB,13
+Liberia,2019,LIB,13
+Libyan Arab Jamahiriya,2010,LAJ,7.7
+Libyan Arab Jamahiriya,2011,LAJ,0
+Libyan Arab Jamahiriya,2012,LAJ,16.5
+Libyan Arab Jamahiriya,2013,LAJ,16.5
+Libyan Arab Jamahiriya,2014,LAJ,16.5
+Libyan Arab Jamahiriya,2015,LAJ,16.5
+Libyan Arab Jamahiriya,2016,LAJ,17.6
+Libyan Arab Jamahiriya,2017,LAJ,17.6
+Libyan Arab Jamahiriya,2018,LAJ,17.6
+Libyan Arab Jamahiriya,2019,LAJ,17.6
+Madagascar,2010,MAD,12.5
+Madagascar,2011,MAD,12.5
+Madagascar,2012,MAD,17.5
+Madagascar,2013,MAD,17.5
+Madagascar,2014,MAD,17.5
+Madagascar,2015,MAD,17.5
+Madagascar,2016,MAD,19.2
+Madagascar,2017,MAD,19.2
+Madagascar,2018,MAD,19.2
+Madagascar,2019,MAD,19.2
+Malawi,2010,MLW,20.8
+Malawi,2011,MLW,22.3
+Malawi,2012,MLW,22.3
+Malawi,2013,MLW,22.3
+Malawi,2014,MLW,22.3
+Malawi,2015,MLW,22.3
+Malawi,2016,MLW,20.4
+Malawi,2017,MLW,20.4
+Malawi,2018,MLW,20.4
+Malawi,2019,MLW,20.4
+Mali,2010,MAL,10.2
+Mali,2011,MAL,10.2
+Mali,2012,MAL,10.2
+Mali,2013,MAL,10.2
+Mali,2014,MAL,10.2
+Mali,2015,MAL,10.2
+Mali,2016,MAL,9.5
+Mali,2017,MAL,9.5
+Mali,2018,MAL,9.5
+Mali,2019,MAL,9.5
+Mauritania,2010,MAU,22.1
+Mauritania,2011,MAU,22.1
+Mauritania,2012,MAU,22.1
+Mauritania,2013,MAU,22.1
+Mauritania,2014,MAU,22.1
+Mauritania,2015,MAU,22.1
+Mauritania,2016,MAU,20.7
+Mauritania,2017,MAU,20.7
+Mauritania,2018,MAU,20.7
+Mauritania,2019,MAU,20.7
+Mauritius,2010,MAR,18.8
+Mauritius,2011,,18.8
+Mauritius,2012,,18.8
+Mauritius,2013,,18.8
+Mauritius,2014,,18.8
+Mauritius,2015,,18.8
+Mauritius,2016,,16.3
+Mauritius,2017,,16.3
+Mauritius,2018,,16.3
+Mauritius,2019,,16.3
+Morocco,2010,MOR,10.5
+Morocco,2011,MOR,17
+Morocco,2012,MOR,17
+Morocco,2013,MOR,17
+Morocco,2014,MOR,17
+Morocco,2015,MOR,17
+Morocco,2016,MOR,15
+Morocco,2017,MOR,15
+Morocco,2018,MOR,15
+Morocco,2019,MOR,15
+Mozambique,2010,MOZ,39.2
+Mozambique,2011,MOZ,39.2
+Mozambique,2012,MOZ,39.2
+Mozambique,2013,MOZ,39.2
+Mozambique,2014,MOZ,39.2
+Mozambique,2015,MOZ,39.2
+Mozambique,2016,MOZ,41.3
+Mozambique,2017,MOZ,41.3
+Mozambique,2018,MOZ,41.3
+Mozambique,2019,MOZ,41.3
+Namibia,2010,NAM,24.4
+Namibia,2011,NAM,24.4
+Namibia,2012,NAM,24.4
+Namibia,2013,NAM,24.4
+Namibia,2014,NAM,24.4
+Namibia,2015,NAM,24.4
+Namibia,2016,NAM,25.9
+Namibia,2017,NAM,25.9
+Namibia,2018,NAM,25.9
+Namibia,2019,NAM,25.9
+Niger,2010,NIG,0
+Niger,2011,NIG,13.3
+Niger,2012,NIG,13.3
+Niger,2013,NIG,13.3
+Niger,2014,NIG,13.3
+Niger,2015,NIG,13.3
+Niger,2016,NIG,11.9
+Niger,2017,NIG,11.9
+Niger,2018,NIG,11.9
+Niger,2019,NIG,11.9
+Nigeria,2010,NGR,7
+Nigeria,2011,NGR,6.8
+Nigeria,2012,NGR,6.7
+Nigeria,2013,NGR,6.7
+Nigeria,2014,NGR,6.7
+Nigeria,2015,NGR,6.7
+Nigeria,2016,NGR,7.2
+Nigeria,2017,NGR,7.2
+Nigeria,2018,NGR,7.2
+Nigeria,2019,NGR,7.2
+Rwanda,2010,RWA,56.3
+Rwanda,2011,RWA,56.3
+Rwanda,2012,RWA,56.3
+Rwanda,2013,RWA,63.8
+Rwanda,2014,RWA,63.8
+Rwanda,2015,RWA,63.8
+Rwanda,2016,RWA,65
+Rwanda,2017,RWA,65
+Rwanda,2018,RWA,65
+Rwanda,2019,RWA,65
+Sao Tome and Principe,2010,SAO,18.2
+Sao Tome and Principe,2011,SAO,18.2
+Sao Tome and Principe,2012,SAO,18.2
+Sao Tome and Principe,2013,SAO,18.2
+Sao Tome and Principe,2014,SAO,18.2
+Sao Tome and Principe,2015,SAO,18.2
+Sao Tome and Principe,2016,SAO,16
+Sao Tome and Principe,2017,SAO,16
+Sao Tome and Principe,2018,SAO,16
+Sao Tome and Principe,2019,SAO,16
+Senegal,2010,SEN,22.7
+Senegal,2011,SEN,22.7
+Senegal,2012,SEN,42.7
+Senegal,2013,SEN,42.7
+Senegal,2014,SEN,42.7
+Senegal,2015,SEN,42.7
+Senegal,2016,SEN,40.1
+Senegal,2017,SEN,40.1
+Senegal,2018,SEN,40.1
+Senegal,2019,SEN,40.1
+Sierra Leone,2010,SIL,13.2
+Sierra Leone,2011,SIL,12.9
+Sierra Leone,2012,SIL,12.4
+Sierra Leone,2013,SIL,12.4
+Sierra Leone,2014,SIL,12.4
+Sierra Leone,2015,SIL,12.4
+Sierra Leone,2016,SIL,10.5
+Sierra Leone,2017,SIL,10.5
+Sierra Leone,2018,SIL,10.5
+Sierra Leone,2019,SIL,10.5
+Somalia,2010,SOM,6.8
+Somalia,2011,SOM,6.8
+Somalia,2012,SOM,13.8
+Somalia,2013,SOM,13.8
+Somalia,2014,SOM,13.8
+Somalia,2015,SOM,13.8
+Somalia,2016,SOM,15.7
+Somalia,2017,SOM,15.7
+Somalia,2018,SOM,15.7
+Somalia,2019,SOM,15.7
+South Africa,2010,SAF,44.5
+South Africa,2011,SAF,42.3
+South Africa,2012,SAF,42.3
+South Africa,2013,SAF,42.3
+South Africa,2014,SAF,42.3
+South Africa,2015,SAF,42.3
+South Africa,2016,SAF,39.5
+South Africa,2017,SAF,39.5
+South Africa,2018,SAF,39.5
+South Africa,2019,SAF,39.5
+Sudan,2010,SUD,25.6
+Sudan,2011,SUD,24.6
+Sudan,2012,SUD,24.6
+Sudan,2013,SUD,24.6
+Sudan,2014,SUD,24.6
+Sudan,2015,SUD,24.6
+Sudan,2016,SUD,24.6
+Sudan,2017,SUD,24.6
+Sudan,2018,SUD,24.6
+Sudan,2019,SUD,24.6
+Swaziland,2010,SWA,13.6
+Swaziland,2011,SWA,13.6
+Swaziland,2012,SWA,13.6
+Swaziland,2013,SWA,6.2
+Swaziland,2014,SWA,6.2
+Swaziland,2015,SWA,6.2
+Swaziland,2016,SWA,8.1
+Swaziland,2017,SWA,8.1
+Swaziland,2018,SWA,8.1
+Swaziland,2019,SWA,8.1
+Togo,2010,TOG,11.1
+Togo,2011,TOG,11.1
+Togo,2012,TOG,11.1
+Togo,2013,TOG,15.4
+Togo,2014,TOG,15.4
+Togo,2015,TOG,15.4
+Togo,2016,TOG,16
+Togo,2017,TOG,16
+Togo,2018,TOG,16
+Togo,2019,TOG,16
+Tunisia,2010,TUN,27.6
+Tunisia,2011,TUN,26.7
+Tunisia,2012,TUN,26.7
+Tunisia,2013,TUN,26.7
+Tunisia,2014,TUN,26.7
+Tunisia,2015,TUN,26.7
+Tunisia,2016,TUN,29.4
+Tunisia,2017,TUN,29.4
+Tunisia,2018,TUN,29.4
+Tunisia,2019,TUN,29.4
+Uganda,2010,UGA,31.3
+Uganda,2011,UGA,35
+Uganda,2012,UGA,35
+Uganda,2013,UGA,35
+Uganda,2014,UGA,35
+Uganda,2015,UGA,35
+Uganda,2016,UGA,30.5
+Uganda,2017,UGA,30.5
+Uganda,2018,UGA,30.5
+Uganda,2019,UGA,30.5
+United Republic of Tanzania,2010,URT,0
+United Republic of Tanzania,2011,URT,36
+United Republic of Tanzania,2012,URT,36
+United Republic of Tanzania,2013,URT,36
+United Republic of Tanzania,2014,URT,36
+United Republic of Tanzania,2015,URT,36
+United Republic of Tanzania,2016,URT,39.7
+United Republic of Tanzania,2017,URT,39.7
+United Republic of Tanzania,2018,URT,39.7
+United Republic of Tanzania,2019,URT,39.7
+Zambia,2010,ZAM,14
+Zambia,2011,ZAM,11.5
+Zambia,2012,ZAM,11.5
+Zambia,2013,ZAM,11.5
+Zambia,2014,ZAM,11.5
+Zambia,2015,ZAM,11.5
+Zambia,2016,ZAM,12.6
+Zambia,2017,ZAM,12.6
+Zambia,2018,ZAM,12.6
+Zambia,2019,ZAM,12.6
+Zimbabwe,2010,ZIM,15
+Zimbabwe,2011,ZIM,15
+Zimbabwe,2012,ZIM,15
+Zimbabwe,2013,ZIM,31.5
+Zimbabwe,2014,ZIM,31.5
+Zimbabwe,2015,ZIM,31.5
+Zimbabwe,2016,ZIM,29.8
+Zimbabwe,2017,ZIM,29.8
+Zimbabwe,2018,ZIM,29.8
+Zimbabwe,2019,ZIM,29.8
